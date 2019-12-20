@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SebasWW.Threading", "SebasWW.Threading\SebasWW.Threading.csproj", "{5AD3A057-BF29-46C2-A77E-2658F40B2456}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SebasWW.Threading.UnitTests", "SebasWW.Threading.UnitTests\SebasWW.Threading.UnitTests.csproj", "{92314F9E-8890-4885-8F49-FBF1196EDE21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD3A057-BF29-46C2-A77E-2658F40B2456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD3A057-BF29-46C2-A77E-2658F40B2456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD3A057-BF29-46C2-A77E-2658F40B2456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD3A057-BF29-46C2-A77E-2658F40B2456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92314F9E-8890-4885-8F49-FBF1196EDE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92314F9E-8890-4885-8F49-FBF1196EDE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92314F9E-8890-4885-8F49-FBF1196EDE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92314F9E-8890-4885-8F49-FBF1196EDE21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {473ED583-DB42-4E02-82A8-E004EE538058}
+	EndGlobalSection
+EndGlobal
